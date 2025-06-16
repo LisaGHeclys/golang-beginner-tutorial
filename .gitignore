@@ -1,0 +1,28 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build outputs
+/bin/
+/build/
+/dist/
+
+# Dependency directories (if using vendoring)
+/vendor/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
